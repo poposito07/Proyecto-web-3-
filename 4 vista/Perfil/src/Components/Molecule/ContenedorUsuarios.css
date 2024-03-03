@@ -1,0 +1,45 @@
+.contenedor-usuarios {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.contenedor-usuarios h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+
+.contenedor-usuarios p {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+}
+
+.linea-corta {
+    border-top: 1px dashed #ccc;
+    margin: 20px 0;
+}
+
+.grupo-usuario {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grupo-usuario h3 {
+    font-size: 16px;
+    color: #333;
+}
+
+.boton-editar {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
